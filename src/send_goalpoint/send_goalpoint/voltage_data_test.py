@@ -215,15 +215,7 @@ class RoarmDriver(Node):
 
     def feedback_timer_callback(self):
         """
-        Периодически:roarm m2s real time graph
-___________________
-ros2 run roarm_driver roarm_driver
-ros2 launch roarm_moveit_cmd command_control.launch.py
-ros2 run roarm_moveit_cmd movepointcmd
-
-ros2 run roarm_driver voltage_data_test 
-ros2 run roarm_driver voltage_subscriber 
-ros2 run send_goalpoint move_point
+        Периодически:
           1) шлём команду T:105 (запрос позы/torque);
           2) читаем JSON-ответ;
           3) если T == 1051 — публикуем torque в /servo_torque.
