@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing send_goalpoint.egg-info/PKG-INFO
+writing dependency_links to send_goalpoint.egg-info/dependency_links.txt
+writing entry points to send_goalpoint.egg-info/entry_points.txt
+writing requirements to send_goalpoint.egg-info/requires.txt
+writing top-level names to send_goalpoint.egg-info/top_level.txt
+reading manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+writing manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send-goalpoint.egg-link (link to .)
+Installing grab_object_demo script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+Installing move_point script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+Installing voltage_data script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+
+Installed /home/rassul/roarm_pain_ws/build/send_goalpoint
+running symlink_data

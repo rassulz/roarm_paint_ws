@@ -1,0 +1,18 @@
+[1.389s] Invoking command in '/home/rassul/roarm_pain_ws/build/send_goalpoint': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build --no-deps symlink_data
+[1.967s] running develop
+[2.355s] running egg_info
+[2.355s] writing send_goalpoint.egg-info/PKG-INFO
+[2.355s] writing dependency_links to send_goalpoint.egg-info/dependency_links.txt
+[2.356s] writing entry points to send_goalpoint.egg-info/entry_points.txt
+[2.356s] writing requirements to send_goalpoint.egg-info/requires.txt
+[2.356s] writing top-level names to send_goalpoint.egg-info/top_level.txt
+[2.360s] reading manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+[2.361s] writing manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+[2.365s] running build_ext
+[2.365s] Creating /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send-goalpoint.egg-link (link to .)
+[2.367s] Installing grab_object_demo script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+[2.367s] Installing move_point script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+[2.368s] 
+[2.368s] Installed /home/rassul/roarm_pain_ws/build/send_goalpoint
+[2.368s] running symlink_data
+[2.420s] Invoked command in '/home/rassul/roarm_pain_ws/build/send_goalpoint' returned '0': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build --no-deps symlink_data

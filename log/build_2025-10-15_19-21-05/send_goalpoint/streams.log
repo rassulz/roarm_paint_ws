@@ -1,0 +1,19 @@
+[0.532s] Invoking command in '/home/rassul/roarm_pain_ws/build/send_goalpoint': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build --no-deps symlink_data --force
+[0.747s] running develop
+[0.891s] running egg_info
+[0.891s] writing send_goalpoint.egg-info/PKG-INFO
+[0.891s] writing dependency_links to send_goalpoint.egg-info/dependency_links.txt
+[0.891s] writing entry points to send_goalpoint.egg-info/entry_points.txt
+[0.891s] writing requirements to send_goalpoint.egg-info/requires.txt
+[0.891s] writing top-level names to send_goalpoint.egg-info/top_level.txt
+[0.894s] reading manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+[0.894s] writing manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+[0.896s] running build_ext
+[0.896s] Creating /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send-goalpoint.egg-link (link to .)
+[0.896s] Installing move_point script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+[0.897s] 
+[0.897s] Installed /home/rassul/roarm_pain_ws/build/send_goalpoint
+[0.897s] running symlink_data
+[0.897s] symbolically linking /home/rassul/roarm_pain_ws/build/send_goalpoint/resource/send_goalpoint -> /home/rassul/roarm_pain_ws/install/send_goalpoint/share/ament_index/resource_index/packages
+[0.897s] symbolically linking /home/rassul/roarm_pain_ws/build/send_goalpoint/package.xml -> /home/rassul/roarm_pain_ws/install/send_goalpoint/share/send_goalpoint
+[0.920s] Invoked command in '/home/rassul/roarm_pain_ws/build/send_goalpoint' returned '0': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build --no-deps symlink_data --force

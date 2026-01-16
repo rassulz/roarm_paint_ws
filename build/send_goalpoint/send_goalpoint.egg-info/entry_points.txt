@@ -1,0 +1,5 @@
+[console_scripts]
+grab_object_demo = send_goalpoint.grap_object_demo:main
+move_point = send_goalpoint.move_point:main
+voltage_data = send_goalpoint.voltage_data:main
+

@@ -1,0 +1,17 @@
+[0.517s] Invoking command in '/home/rassul/roarm_pain_ws/build/send_goalpoint': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build --no-deps symlink_data
+[0.736s] running develop
+[0.882s] running egg_info
+[0.882s] writing send_goalpoint.egg-info/PKG-INFO
+[0.882s] writing dependency_links to send_goalpoint.egg-info/dependency_links.txt
+[0.882s] writing entry points to send_goalpoint.egg-info/entry_points.txt
+[0.882s] writing requirements to send_goalpoint.egg-info/requires.txt
+[0.882s] writing top-level names to send_goalpoint.egg-info/top_level.txt
+[0.884s] reading manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+[0.884s] writing manifest file 'send_goalpoint.egg-info/SOURCES.txt'
+[0.885s] running build_ext
+[0.885s] Creating /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send-goalpoint.egg-link (link to .)
+[0.886s] Installing move_point script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+[0.886s] 
+[0.886s] Installed /home/rassul/roarm_pain_ws/build/send_goalpoint
+[0.886s] running symlink_data
+[0.910s] Invoked command in '/home/rassul/roarm_pain_ws/build/send_goalpoint' returned '0': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build --no-deps symlink_data

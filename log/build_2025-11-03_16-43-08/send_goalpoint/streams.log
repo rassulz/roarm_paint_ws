@@ -1,0 +1,39 @@
+[0.534s] Invoking command in '/home/rassul/roarm_pain_ws/build/send_goalpoint': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build
+[0.758s] running develop
+[0.909s] Removing /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send-goalpoint.egg-link (link to .)
+[0.932s] Invoked command in '/home/rassul/roarm_pain_ws/build/send_goalpoint' returned '0': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rassul/roarm_pain_ws/build/send_goalpoint/build
+[0.933s] Invoking command in '/home/rassul/roarm_pain_ws/src/send_goalpoint': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/send_goalpoint build --build-base /home/rassul/roarm_pain_ws/build/send_goalpoint/build install --record /home/rassul/roarm_pain_ws/build/send_goalpoint/install.log --single-version-externally-managed install_data --force
+[1.147s] running egg_info
+[1.148s] writing ../../build/send_goalpoint/send_goalpoint.egg-info/PKG-INFO
+[1.148s] writing dependency_links to ../../build/send_goalpoint/send_goalpoint.egg-info/dependency_links.txt
+[1.148s] writing entry points to ../../build/send_goalpoint/send_goalpoint.egg-info/entry_points.txt
+[1.148s] writing requirements to ../../build/send_goalpoint/send_goalpoint.egg-info/requires.txt
+[1.148s] writing top-level names to ../../build/send_goalpoint/send_goalpoint.egg-info/top_level.txt
+[1.150s] reading manifest file '../../build/send_goalpoint/send_goalpoint.egg-info/SOURCES.txt'
+[1.150s] adding license file 'LICENSE'
+[1.150s] writing manifest file '../../build/send_goalpoint/send_goalpoint.egg-info/SOURCES.txt'
+[1.150s] running build
+[1.151s] running build_py
+[1.151s] copying send_goalpoint/grap_object.py -> /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint
+[1.151s] copying send_goalpoint/grap_object_demo.py -> /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint
+[1.151s] copying send_goalpoint/move_point.py -> /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint
+[1.151s] running install
+[1.152s] running install_lib
+[1.152s] creating /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+[1.152s] copying /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint/__init__.py -> /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+[1.153s] copying /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint/grap_object.py -> /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+[1.153s] copying /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint/grap_object_demo.py -> /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+[1.153s] copying /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint/move_point.py -> /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+[1.153s] byte-compiling /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint/__init__.py to __init__.cpython-310.pyc
+[1.153s] byte-compiling /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint/grap_object.py to grap_object.cpython-310.pyc
+[1.154s] byte-compiling /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint/grap_object_demo.py to grap_object_demo.cpython-310.pyc
+[1.154s] byte-compiling /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint/move_point.py to move_point.cpython-310.pyc
+[1.155s] running install_data
+[1.155s] copying resource/send_goalpoint -> /home/rassul/roarm_pain_ws/install/send_goalpoint/share/ament_index/resource_index/packages
+[1.155s] copying package.xml -> /home/rassul/roarm_pain_ws/install/send_goalpoint/share/send_goalpoint
+[1.155s] running install_egg_info
+[1.157s] Copying ../../build/send_goalpoint/send_goalpoint.egg-info to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint-0.0.0-py3.10.egg-info
+[1.157s] running install_scripts
+[1.175s] Installing move_point script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+[1.175s] writing list of installed files to '/home/rassul/roarm_pain_ws/build/send_goalpoint/install.log'
+[1.195s] Invoked command in '/home/rassul/roarm_pain_ws/src/send_goalpoint' returned '0': PYTHONPATH=/home/rassul/roarm_pain_ws/build/send_goalpoint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/send_goalpoint build --build-base /home/rassul/roarm_pain_ws/build/send_goalpoint/build install --record /home/rassul/roarm_pain_ws/build/send_goalpoint/install.log --single-version-externally-managed install_data --force

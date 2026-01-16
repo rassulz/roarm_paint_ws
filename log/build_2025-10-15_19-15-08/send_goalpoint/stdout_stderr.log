@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/send_goalpoint/send_goalpoint.egg-info
+writing ../../build/send_goalpoint/send_goalpoint.egg-info/PKG-INFO
+writing dependency_links to ../../build/send_goalpoint/send_goalpoint.egg-info/dependency_links.txt
+writing entry points to ../../build/send_goalpoint/send_goalpoint.egg-info/entry_points.txt
+writing requirements to ../../build/send_goalpoint/send_goalpoint.egg-info/requires.txt
+writing top-level names to ../../build/send_goalpoint/send_goalpoint.egg-info/top_level.txt
+writing manifest file '../../build/send_goalpoint/send_goalpoint.egg-info/SOURCES.txt'
+reading manifest file '../../build/send_goalpoint/send_goalpoint.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/send_goalpoint/send_goalpoint.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rassul/roarm_pain_ws/build/send_goalpoint/build
+creating /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib
+creating /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint
+copying send_goalpoint/__init__.py -> /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint
+copying send_goalpoint/move_point.py -> /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint
+running install
+running install_lib
+creating /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+copying /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint/__init__.py -> /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+copying /home/rassul/roarm_pain_ws/build/send_goalpoint/build/lib/send_goalpoint/move_point.py -> /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint
+byte-compiling /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint/move_point.py to move_point.cpython-310.pyc
+running install_data
+creating /home/rassul/roarm_pain_ws/install/send_goalpoint/share/ament_index
+creating /home/rassul/roarm_pain_ws/install/send_goalpoint/share/ament_index/resource_index
+creating /home/rassul/roarm_pain_ws/install/send_goalpoint/share/ament_index/resource_index/packages
+copying resource/send_goalpoint -> /home/rassul/roarm_pain_ws/install/send_goalpoint/share/ament_index/resource_index/packages
+copying package.xml -> /home/rassul/roarm_pain_ws/install/send_goalpoint/share/send_goalpoint
+running install_egg_info
+Copying ../../build/send_goalpoint/send_goalpoint.egg-info to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/python3.10/site-packages/send_goalpoint-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move_point script to /home/rassul/roarm_pain_ws/install/send_goalpoint/lib/send_goalpoint
+writing list of installed files to '/home/rassul/roarm_pain_ws/build/send_goalpoint/install.log'
