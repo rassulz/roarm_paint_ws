@@ -1,5 +1,7 @@
 ## Roarm manipulator control and real time torque
 
+how to use the roarm m2s manipulator go the https://github.com/waveshareteam/roarm_ws_em0
+
 to turn on the motor drivers of manipulator
 ros2 run roarm_driver roarm_driver
 turn the rviz digital twin of manipulator
@@ -16,3 +18,8 @@ ros2 run roarm_driver voltage_data_test
 ros2 run roarm_driver voltage_subscriber
 to go manipulator to particular coordinates by moveit and inverse kinemitics
 ros2 run send_goalpoint move_point
+
+program realization 
+
+youtube video link
+https://www.youtube.com/watch?v=mPZ9lYyAxys
